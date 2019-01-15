@@ -1,29 +1,29 @@
 # Site settings
-title: Blog
-SEOTitle: JJQ的博客 | Blog
+title: 123
+SEOTitle: JJQ Blog
 header-img: img/beijing.jpg
 email: 973994816@qq.com
-description: "Every failure is leading towards success."
-keyword: "Blog, JJQ的博客, WJ, 武杰"
+description: "Let's go!"
+keyword: "Network Security、Penetration Test、AI、Reverse"
 url: "https://wjzm.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Love you!"
 sidebar-avatar: /img/wj123.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     JJQ
+weibo_username:     JJQ
 zhihu_username:     JJQ
 github_username:    WJZM
 facebook_username:  JJQ
 jianshu_username:   JJQ
-#twitter_username:  JJQ_id
+twitter_username:  JJQ
 
 
 
@@ -89,18 +89,18 @@ service-worker: true
 
 
 # Friends
-friends: [
+Link: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Google",
+        href: "https://www.google.com.hk/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Twitter",
+        href: "https://twitter.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Facebook",
+        href: "https://www.facebook.com/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Wikipedia",
+        href: "https://www.wikipedia.org/"
     }
 ]
